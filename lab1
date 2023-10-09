@@ -1,14 +1,31 @@
-[user@sahara ~]$ cd // /home/leture1/lab1//
+[user@sahara ~]$ cd 
 [user@sahara ~]$ cd lab1
 [user@sahara ~/lab1]$ cd lecture1/Hello.java
-bash: cd: lecture1/Hello.java: No such file or directory // it can not change the directory for the doc.
-
+bash: cd: lecture1/Hello.java: Not a directory
+work directory /home/leture1/
+the cd command  changes the directory of this file. When it gets an error because it is not a directory, it is a path.
 
 [user@sahara ~]$ ls
-lab1  LAB1  lecture1
-[user@sahara ~]$ ls LAB1
+lab1  lecture1
+[user@sahara ~]$ ls lab1
 LAB1
-[user@sahara ~]$ ls lecture1/Hello.java
-lecture1/Hello.java
+[user@sahara ~]$ ls lab1/LAB1
+lab1/LAB1
+work directory /home/lab1
+this command shows the  list of files. the output shows the list of directories.
 
+[user@sahara ~]$ cat 
+[user@sahara ~]$ cat lab1
+cat: lab1: Is a directory
+[user@sahara ~]$ cat lecture1/Hello.java
+import java.io.IOException;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Path;
 
+public class Hello {
+  public static void main(String[] args) throws IOException {
+    String content = Files.readString(Path.of(args[0]), StandardCharsets.UTF_8);    
+    System.out.println(content);
+work directory /home/leture1/
+it reads data from the file and gives its content as output; no arguments show it doesn't read any thing.

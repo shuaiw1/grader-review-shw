@@ -29,3 +29,4 @@ public class Hello {
     System.out.println(content);
 work directory /home/leture1/
 it reads data from the file and gives its content as output; no arguments show it doesn't read any thing.
+![Image](活化07.png)

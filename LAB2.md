@@ -1,4 +1,4 @@
-![Image](LBA2 HELLO.png)
+![Image](LAB2 HELLO.png)
 Methods called: main from StringServer, handle from ServerHttpHandler, and handleRequest from MessageHandler.args[0]: Port number for the main method.
 url: The request URL for the handleRequest method. For message, It starts empty and gets updated with each new message in the format .
 ![Image](LBA2 HOW ARE YOU.png)

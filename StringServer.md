@@ -1,3 +1,9 @@
+![Image](LBA2 HELLO.png)
+![Image](LBA2 HOW ARE YOU.png)
+
+
+
+
 import java.io.IOException;
 import java.net.URI;
 
@@ -30,9 +36,3 @@ public class StringServer {
         Server.start(port, new MessageHandler());
     }
 }
-
-
-
-
-![Image](LBA2 HELLO.png)
-![Image](LBA2 HOW ARE YOU.png)

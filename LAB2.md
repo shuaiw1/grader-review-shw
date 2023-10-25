@@ -42,3 +42,6 @@ public class StringServer {
         Server.start(port, new MessageHandler());
     }
 }
+PART3
+Learned how to store a local ssh key and learned how to test web pages locally.
+ I got to know the commands of the local terminal better.

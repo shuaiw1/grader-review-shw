@@ -2,6 +2,9 @@
 Methods called: main from StringServer, handle from ServerHttpHandler, and handleRequest from MessageHandler.args[0]: Port number for the main method.
 url: The request URL for the handleRequest method. For message, It starts empty and gets updated with each new message in the format .
 ![Image](LBA2 HOW ARE YOU.png)
+Methods Called: handle from ServerHttpHandler and handleRequest from MessageHandler.
+Relevant Arguments: url: The request URL (/add-message?s=How%20are%20you) for the handleRequest method.
+counter: Assuming it was initially 1, it gets incremented to 2 with the new message.
 ![Image](截屏2023-10-22 18.58.49.png)
 
 

@@ -1,1 +1,1 @@
-![LAB2 HELLO](LAB2 HELLO.png)
+![[Image](LAB2 HELLO.png)

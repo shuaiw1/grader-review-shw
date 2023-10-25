@@ -32,4 +32,3 @@ public class StringServer {
 }
 ![Image](LBA2 HELLO.png)
 ![Image](LBA2 HOW ARE YOU.png)
-![Image](LBA2 HELLO.png)

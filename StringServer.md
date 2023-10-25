@@ -30,4 +30,6 @@ public class StringServer {
         Server.start(port, new MessageHandler());
     }
 }
-![Image](活化07.png)
+![Image](LBA2 HELLO.png)
+![Image](LBA2 HOW ARE YOU.png)
+![Image](LBA2 HELLO.png)

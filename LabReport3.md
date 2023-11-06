@@ -53,3 +53,5 @@ static List<String> merge(List<String> list1, List<String> list2) {
 }
 ```
 the problem likely lies in the infinite loop within the merge method. The issue is that one of the loop's indexes is not being incremented correctly , causing an infinite loop if the second list (list2) finishes before the first one (list1).
+![Image](listwrong.png)
+![Image](listright.png)

@@ -92,7 +92,7 @@ This command will search for "data" in data_summary.txt and highlight the matchi
 ```
 This command will search for "data" in data_summary.txt and highlight the matching text in color.
 ```
-This searches for "todo" in tasks.md and displays the line numbers with the matching text highlighted in color.
-/ncite:
-/nhttps://www.gnu.org/software/grep/manual/grep.html
-/nChatGPT for asking: For the commands grep, find 4  command-line options or alternate ways to use the command. For each of those options, give 2 examples of using it on files and directories from ./technical.
+This searches for "todo" in tasks.md and displays the line numbers with the matching text highlighted in color.<br>
+cite:<br>
+https://www.gnu.org/software/grep/manual/grep.html <br>
+ChatGPT for asking: For the commands grep, find 4  command-line options or alternate ways to use the command. For each of those options, give 2 examples of using it on files and directories from ./technical.

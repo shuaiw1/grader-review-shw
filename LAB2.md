@@ -9,7 +9,7 @@ counter: Assuming it was initially 1, it gets incremented to 2 with the new mess
 
 
 
-
+```
 import java.io.IOException;
 import java.net.URI;
 
@@ -42,6 +42,7 @@ public class StringServer {
         Server.start(port, new MessageHandler());
     }
 }
+```
 PART3
 Learned how to store a local ssh key and learned how to test web pages locally.
  I got to know the commands of the local terminal better.

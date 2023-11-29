@@ -1,0 +1,10 @@
+The global variables declaring all the paths are nice giving a nice indication of where everything should be
+The comments for old java and javac on lines 29 and 40 may be unnecessary 
+
+I would like to be able to see the test score and maybe the names of the tests that failed.
+The error for incorrect file name or path could mention the expected directory and name of the file.
+
+Printing the compiler error may also be helpful to the student when debugging
+
+Brandon               
+
